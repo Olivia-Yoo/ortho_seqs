@@ -1,0 +1,22 @@
+rf1d Object:
+
+Number of sites: 19
+Number of dimensions: 4
+Alphabet input: ['SYG', 'R', 'z', 'n']
+Molecule: protein
+
+Phenotype represents ELISA values
+Image output directory: docs/source/tutorial_outputs0
+Highest rFon1D magnitudes:
+-1.3014	Site: 0		Key: SYG
+1.3014	Site: 0		Key: R
+1.1394	Site: 8		Key: R
+1.1394	Site: 10		Key: R
+1.1229	Site: 9		Key: z
+1.1229	Site: 12		Key: z
+1.1229	Site: 8		Key: z
+1.1229	Site: 13		Key: R
+1.0344	Site: 16		Key: z
+-0.9606	Site: 10		Key: z
+saved regression graph as docs/source/tutorial_outputs0/rFon1D_Regressions_of_ELISA_values.png
+--- 509.592490196228 seconds ---
